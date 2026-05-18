@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys",
+    "@whiskeysockets/baileys": "npm:baileyz@latest",
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
     "@ffmpeg-installer/ffmpeg": "latest",
